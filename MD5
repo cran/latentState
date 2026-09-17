@@ -1,0 +1,13 @@
+c3ffbeea588e98eaef1f5cee520a6afb *DESCRIPTION
+81fef79220e9e7ffb80763ee17bf94a3 *NAMESPACE
+fe782b8887c87f027fedcc7908860b2e *R/latentState-package.R
+1b1d23ca97f63c0446e2f08e1d3de3c1 *R/make_world.R
+4f2aa49da38816c854f14661b743248e *R/modelSim.R
+73c5458420feff7bd3f7e834b80b4497 *R/plot_compare.R
+0c8709a5ea54c284fb127f0f32f6c679 *R/run.R
+c887e1529cbcb15954f5d972b0b1c324 *R/taskInit.R
+9d40159f50a5fc9949cbfe95a2884126 *build/partial.rdb
+f5795db4b76722c727deec8c74fbc22d *man/latentState-package.Rd
+6fccb4d47090c161a599bd394748c912 *man/make_world.Rd
+6a8c9cc7b1030b3b132646f02fd75f20 *man/plot_compare.Rd
+270e0b03cef488be881ec62a116a2d27 *man/run.Rd

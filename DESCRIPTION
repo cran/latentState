@@ -1,0 +1,22 @@
+Package: latentState
+Title: Simulate Outcomes of a Latent State Reinforcement Learning Model
+Version: 1.0.0
+Authors@R: 
+    person("Martin", "Benada", , "martinibenada@gmail.com", role = c("aut", "cre"))
+Description: Simulates outcomes of an updated version of the latent
+    state reinforcement learning model originally described in Cochran and Cisler
+    (2019) <doi:10.1371/journal.pcbi.1007331>. The package is designed to create
+    results under all reasonable experiment setups, including different
+    reinforcement schedules, number of cues, number of phases, and number of
+    options per trial. Participants can be simulated using either fixed
+    parameters or parameters drawn from a distribution.
+License: GPL (>= 3)
+URL: https://osf.io/2whcu
+Encoding: UTF-8
+RoxygenNote: 8.0.0
+NeedsCompilation: no
+Packaged: 2026-09-08 19:41:12 UTC; marti
+Author: Martin Benada [aut, cre]
+Maintainer: Martin Benada <martinibenada@gmail.com>
+Repository: CRAN
+Date/Publication: 2026-09-17 09:30:09 UTC
