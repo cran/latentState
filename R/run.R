@@ -527,6 +527,9 @@
 #'       generated for each arm and dimension, regardless of the agent's
 #'       choice. Also includes \code{type_seq}, which is a list
 #'       showing the order of cues presented to this participant.}
+#'     \item{\code{type_seq}}{List with one element per phase, holding the
+#'       trial-type labels in the order presented. Used internally by
+#'       \code{plot_compare()}. Not intended for direct use.}
 #'     \item{\code{long}}{List (one entry per phase) of data frames
 #'       combining every cue type presented in that phase, in long format,
 #'       for \code{D = 1} only, intended for running an ANOVA using the
@@ -2030,7 +2033,6 @@ run = function(phase_def,
     res$V_raw    <- res$V_raw_list
     res$V_list   <- NULL
     res$V_raw_list <- NULL
-    res$type_seq <- NULL
     res
   })
 

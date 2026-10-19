@@ -1,6 +1,6 @@
 Package: latentState
 Title: Simulate Outcomes of a Latent State Reinforcement Learning Model
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     person("Martin", "Benada", , "martinibenada@gmail.com", role = c("aut", "cre"))
 Description: Simulates outcomes of an updated version of the latent
@@ -15,8 +15,8 @@ URL: https://osf.io/2whcu
 Encoding: UTF-8
 RoxygenNote: 8.0.0
 NeedsCompilation: no
-Packaged: 2026-09-08 19:41:12 UTC; marti
+Packaged: 2026-10-19 12:10:14 UTC; marti
 Author: Martin Benada [aut, cre]
 Maintainer: Martin Benada <martinibenada@gmail.com>
 Repository: CRAN
-Date/Publication: 2026-09-17 09:30:09 UTC
+Date/Publication: 2026-10-19 12:20:02 UTC
